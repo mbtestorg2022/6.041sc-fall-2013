@@ -11,7 +11,25 @@ uid: c23bebfa-7b15-d4af-7f83-d7f19b96837b
 Lecture Topics
 --------------
 
-| ![Lecture_5.jpg]({{< resource_file 4be7f15a-319d-38ad-7c02-74d60c2fe87f >}}) |  {{< br >}}{{< br >}} *   Random Variables{{< br >}}*   Probability of Mass Function (PMF){{< br >}}*   Expectation{{< br >}}*   Variance {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_5.jpg]({{< resource_file 4be7f15a-319d-38ad-7c02-74d60c2fe87f >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Random Variables
+*   Probability of Mass Function (PMF)
+*   Expectation
+*   Variance
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,9 +48,36 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 3 | [Sampling People on Buses]({{< baseurl >}}/resources/sampling-people-on-buses) | Jimmy Li 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Sampling People on Buses]({{< baseurl >}}/resources/sampling-people-on-buses)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems and Tutorial Help Videos
 ------------------------------------------
@@ -44,9 +89,36 @@ Review the tutorial problems in the PDF file below and try to solve them on your
 
 ### Tutorial Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 2 | [PMF of a Function of a Random Variable]({{< baseurl >}}/resources/pmf-of-a-function-of-a-random-variable) | Katie Szeto 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[PMF of a Function of a Random Variable]({{< baseurl >}}/resources/pmf-of-a-function-of-a-random-variable)
+{{< tdclose >}}
+{{< tdopen >}}
+Katie Szeto
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 *   [Tutorial 3 Problems (PDF)]({{< baseurl >}}/resources/mit6_041scf13_tut03) Do ONLY problem 1
 *   [Tutorial 3 Solutions (PDF)]({{< baseurl >}}/resources/mit6_041scf13_tut03_sol)

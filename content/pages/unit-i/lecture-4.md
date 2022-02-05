@@ -11,7 +11,27 @@ uid: 108d48da-58fe-98e5-ce62-e6b1df65eefa
 Lecture Topics
 --------------
 
-| ![Lecture4.jpg]({{< resource_file c842c7b1-e2ab-2b59-2c03-63995ddb5925 >}}) |  {{< br >}}{{< br >}} *   Principles of Counting{{< br >}}*   Examples of Counting{{< br >}}    *   Permutations{{< br >}}    *   Combinations{{< br >}}    *   Partitions{{< br >}}*   Binomial Probabilities {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture4.jpg]({{< resource_file c842c7b1-e2ab-2b59-2c03-63995ddb5925 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Principles of Counting
+*   Examples of Counting
+    *   Permutations
+    *   Combinations
+    *   Partitions
+*   Binomial Probabilities
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,10 +50,48 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 2 | [Rooks on a Chessboard]({{< baseurl >}}/resources/rooks-on-a-chessboard) | Katie Szeto |
-| 3 | [Hypergeometric Probabilities]({{< baseurl >}}/resources/hypergeometric-probabilities) | Kuang Xu 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Rooks on a Chessboard]({{< baseurl >}}/resources/rooks-on-a-chessboard)
+{{< tdclose >}}
+{{< tdopen >}}
+Katie Szeto
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Hypergeometric Probabilities]({{< baseurl >}}/resources/hypergeometric-probabilities)
+{{< tdclose >}}
+{{< tdopen >}}
+Kuang Xu
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems
 -----------------

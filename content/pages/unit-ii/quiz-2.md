@@ -11,7 +11,26 @@ uid: 6fa0388f-081f-b91b-7c60-7bf0b0f6197d
 Quiz Information
 ----------------
 
-| ![Quiz_2.jpg]({{< resource_file efe3db88-65cf-2166-cc77-b82d633179a7 >}}) | Quiz 2 covers the following material {{< br >}}{{< br >}} *   Lectures 1 through 12{{< br >}}*   Textbook Chapters 1 and 4{{< br >}}*   Recitations 1 through 13{{< br >}}*   Tutorials 1 through 6{{< br >}}*   Problem Sets 1 through 6 {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Quiz_2.jpg]({{< resource_file efe3db88-65cf-2166-cc77-b82d633179a7 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2 covers the following material
+
+*   Lectures 1 through 12
+*   Textbook Chapters 1 and 4
+*   Recitations 1 through 13
+*   Tutorials 1 through 6
+*   Problem Sets 1 through 6
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Preparation Activities
 ----------------------

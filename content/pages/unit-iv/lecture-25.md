@@ -8,7 +8,28 @@ uid: 954792d8-6c4c-0407-b8df-99d7c887dade
 
 « [Previous]({{< baseurl >}}/pages/unit-iv/lecture-24) | [Next]({{< baseurl >}}/pages/final-exam) »
 
-| ![Lecture_25.jpg]({{< resource_file 46257ea1-71b5-b8a2-d034-3a2bd74dd0ad >}}) |  {{< br >}}{{< br >}} *   Review of simple binary hypothesis tests{{< br >}}    *   Examples {{< br >}}{{< br >}} *   Testing composite hypotheses{{< br >}}    *   Is my coin fair?{{< br >}}    *   Is my die fair?{{< br >}}    *   Goodness of fit tests {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_25.jpg]({{< resource_file 46257ea1-71b5-b8a2-d034-3a2bd74dd0ad >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Review of simple binary hypothesis tests
+    *   Examples
+
+*   Testing composite hypotheses
+    *   Is my coin fair?
+    *   Is my die fair?
+    *   Goodness of fit tests
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------

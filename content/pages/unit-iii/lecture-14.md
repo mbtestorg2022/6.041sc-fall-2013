@@ -11,7 +11,26 @@ uid: 8e470ec3-a395-bf84-a620-8d352722d79f
 Lecture Topics
 --------------
 
-| ![Lecture_14.jpg]({{< resource_file b9168b04-40ae-b34f-736e-987f8f0cc04e >}}) |  {{< br >}}{{< br >}} *   Review of Bernoulli process{{< br >}}*   Definition of Poisson process{{< br >}}*   PMF of number of arrivals{{< br >}}*   Distribution of interarrival times{{< br >}}*   Other properties of the Poisson process {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_14.jpg]({{< resource_file b9168b04-40ae-b34f-736e-987f8f0cc04e >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Review of Bernoulli process
+*   Definition of Poisson process
+*   PMF of number of arrivals
+*   Distribution of interarrival times
+*   Other properties of the Poisson process
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,9 +49,36 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-|  3 | [Competing Exponentials]({{< baseurl >}}/resources/competing-exponentials) | Jimmy Li 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 3
+{{< tdclose >}}
+{{< tdopen >}}
+[Competing Exponentials]({{< baseurl >}}/resources/competing-exponentials)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems
 -----------------

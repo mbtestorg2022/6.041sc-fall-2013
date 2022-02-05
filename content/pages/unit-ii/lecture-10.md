@@ -11,7 +11,23 @@ uid: 5d1de23e-b7c4-9423-7bfa-ababd1266729
 Lecture Topics
 --------------
 
-| ![Lecture_10.jpg]({{< resource_file af4f95ca-d8ba-4637-b775-909bdb19fc66 >}}) |  {{< br >}}{{< br >}} *   Four variants of the Bayes' rule{{< br >}}*   Derived distributions {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_10.jpg]({{< resource_file af4f95ca-d8ba-4637-b775-909bdb19fc66 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Four variants of the Bayes' rule
+*   Derived distributions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,11 +46,60 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 1 | [Inferring a Discrete Random Variable from a Continuous Measurement]({{< baseurl >}}/resources/inferring-a-discrete-random-variable-from-a-continuous-measurement) | Jimmy Li |
-| 2 | [Inferring a Continuous Random Variable from a Discrete Measurement]({{< baseurl >}}/resources/inferring-a-continuous-random-variable-from-a-discrete-measurement) | Jimmy Li |
-| 3 | [A Derived Distribution Example]({{< baseurl >}}/resources/a-derived-distribution-example) | Jimmy Li 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Inferring a Discrete Random Variable from a Continuous Measurement]({{< baseurl >}}/resources/inferring-a-discrete-random-variable-from-a-continuous-measurement)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Inferring a Continuous Random Variable from a Discrete Measurement]({{< baseurl >}}/resources/inferring-a-continuous-random-variable-from-a-discrete-measurement)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[A Derived Distribution Example]({{< baseurl >}}/resources/a-derived-distribution-example)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems and Tutorial Help Videos
 ------------------------------------------
@@ -46,9 +111,47 @@ Review the tutorial problems in the PDF file below and try to solve them on your
 
 ### Tutorial Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 2 | [The Probability Distribution Function (PDF) of \[X\]]({{< baseurl >}}/resources/the-probability-distribution-function-pdf-of-x) | Jimmy Li |
-| 3 | [Ambulance Travel Time]({{< baseurl >}}/resources/ambulance-travel-time) | Kuang Xu 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[The Probability Distribution Function (PDF) of \[X\]]({{< baseurl >}}/resources/the-probability-distribution-function-pdf-of-x)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Ambulance Travel Time]({{< baseurl >}}/resources/ambulance-travel-time)
+{{< tdclose >}}
+{{< tdopen >}}
+Kuang Xu
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/unit-ii/lecture-9) | [Next]({{< baseurl >}}/pages/unit-ii/lecture-11) »

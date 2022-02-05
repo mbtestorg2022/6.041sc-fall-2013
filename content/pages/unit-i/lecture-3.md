@@ -11,7 +11,23 @@ uid: 88ec4f7f-5a26-d2a6-d53a-cbe75f7f7929
 Lecture Topics
 --------------
 
-| ![Lecture3.jpg]({{< resource_file 9cd47a01-d14e-a6fb-29b2-14f62078292f >}}) |  {{< br >}}{{< br >}} *   Independence of two events{{< br >}}*   Independence of a collection of events {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture3.jpg]({{< resource_file 9cd47a01-d14e-a6fb-29b2-14f62078292f >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Independence of two events
+*   Independence of a collection of events
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,10 +46,48 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 2 | [A Random Walker]({{< baseurl >}}/resources/a-random-walker) | Kuang Xu |
-| 3 | [Communication over a Noisy Channel]({{< baseurl >}}/resources/communication-over-a-noisy-channel) | Jimmy Li 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[A Random Walker]({{< baseurl >}}/resources/a-random-walker)
+{{< tdclose >}}
+{{< tdopen >}}
+Kuang Xu
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Communication over a Noisy Channel]({{< baseurl >}}/resources/communication-over-a-noisy-channel)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems and Tutorial Help Videos
 ------------------------------------------
@@ -45,10 +99,48 @@ Review the tutorial problems in the PDF file below and try to solve them on your
 
 ### Tutorial Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 2 | [Network Reliability]({{< baseurl >}}/resources/network-reliability) | Kuang Xu |
-| 3 | [A Chess Tournament Problem]({{< baseurl >}}/resources/a-chess-tournament-problem) | Katie Szeto 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Network Reliability]({{< baseurl >}}/resources/network-reliability)
+{{< tdclose >}}
+{{< tdopen >}}
+Kuang Xu
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[A Chess Tournament Problem]({{< baseurl >}}/resources/a-chess-tournament-problem)
+{{< tdclose >}}
+{{< tdopen >}}
+Katie Szeto
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problem Set and Solutions
 -------------------------

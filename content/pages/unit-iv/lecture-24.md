@@ -11,7 +11,29 @@ uid: 29dea00b-5d03-c47e-e671-3d65b06ab496
 Lecture Topics
 --------------
 
-| ![Lecture_24.jpg]({{< resource_file 342db917-4eba-e001-acbf-de9379f90516 >}}) |  {{< br >}}{{< br >}} *   Review{{< br >}}    *   Maximum likelihood estimation{{< br >}}    *   Confidence intervals {{< br >}}{{< br >}} *   Linear regression{{< br >}}*   Binary hypothesis testing{{< br >}}    *   Types of error{{< br >}}    *   Likelihood ratio test (LRT) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_24.jpg]({{< resource_file 342db917-4eba-e001-acbf-de9379f90516 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Review
+    *   Maximum likelihood estimation
+    *   Confidence intervals
+
+*   Linear regression
+*   Binary hypothesis testing
+    *   Types of error
+    *   Likelihood ratio test (LRT)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------

@@ -11,7 +11,25 @@ uid: 091b0bdf-2c56-e919-8e8d-1be1365e4db6
 Lecture Topics
 --------------
 
-| ![Lecture_15.jpg]({{< resource_file c01bc33e-8b9b-8adb-a08a-877a749a35d4 >}}) |  {{< br >}}{{< br >}} *   Review of Poisson process{{< br >}}*   Merging and splitting{{< br >}}*   Examples{{< br >}}*   Random incidence {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_15.jpg]({{< resource_file c01bc33e-8b9b-8adb-a08a-877a749a35d4 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Review of Poisson process
+*   Merging and splitting
+*   Examples
+*   Random incidence
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,9 +48,36 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-|  3 | [Random Incidence Under Erlang Arrivals]({{< baseurl >}}/resources/random-incidence-under-erlang-arrivals) | Jimmy Li 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 3
+{{< tdclose >}}
+{{< tdopen >}}
+[Random Incidence Under Erlang Arrivals]({{< baseurl >}}/resources/random-incidence-under-erlang-arrivals)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems
 -----------------

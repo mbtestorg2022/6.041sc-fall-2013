@@ -11,7 +11,26 @@ uid: aedead42-950e-896b-b568-a4402ab05dbd
 Lecture Topics
 --------------
 
-| ![Lecture_6.jpg]({{< resource_file ef863062-1b4c-d36c-36ef-4e70acec6513 >}}) |  {{< br >}}{{< br >}} *   Review: PMF, expectation, variance{{< br >}}*   Conditional PMF{{< br >}}*   Geometric PMF{{< br >}}*   Total expectation theorem{{< br >}}*   Joint PMF of two random variables {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_6.jpg]({{< resource_file ef863062-1b4c-d36c-36ef-4e70acec6513 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Review: PMF, expectation, variance
+*   Conditional PMF
+*   Geometric PMF
+*   Total expectation theorem
+*   Joint PMF of two random variables
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,10 +49,48 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 1 | [Flipping a Coin a Random Number of Times]({{< baseurl >}}/resources/flipping-a-coin-a-random-number-of-times) | Kuang Xu |
-| 2 | [Joint Probability Mass Function (PMF) Drill 1]({{< baseurl >}}/resources/joint-probability-mass-function-pmf-drill-1) | Katie Szeto 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Flipping a Coin a Random Number of Times]({{< baseurl >}}/resources/flipping-a-coin-a-random-number-of-times)
+{{< tdclose >}}
+{{< tdopen >}}
+Kuang Xu
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Joint Probability Mass Function (PMF) Drill 1]({{< baseurl >}}/resources/joint-probability-mass-function-pmf-drill-1)
+{{< tdclose >}}
+{{< tdopen >}}
+Katie Szeto
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems and Tutorial Help Videos
 ------------------------------------------
@@ -45,8 +102,35 @@ Review the tutorial problems in the PDF file below and try to solve them on your
 
 ### Tutorial Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 2 | [The Coupon Collector Problem]({{< baseurl >}}/resources/the-coupon-collector-problem) | Kuang Xu 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[The Coupon Collector Problem]({{< baseurl >}}/resources/the-coupon-collector-problem)
+{{< tdclose >}}
+{{< tdopen >}}
+Kuang Xu
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/unit-i/lecture-5) | [Next]({{< baseurl >}}/pages/unit-i/lecture-7) »

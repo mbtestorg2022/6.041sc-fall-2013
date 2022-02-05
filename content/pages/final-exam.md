@@ -9,7 +9,23 @@ uid: fc5aa2e6-faa1-b7bf-7cc5-be22b6e4d8e0
 Exam Information
 ----------------
 
-| ![Final_Exam.jpg]({{< resource_file bd464e14-e9d7-d529-3527-eb90407e557b >}}) |  {{< br >}}{{< br >}} The Final Exam covers the entire course, however the emphasis  {{< br >}}is on the material not covered in Quiz 1 and Quiz 2. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Final_Exam.jpg]({{< resource_file bd464e14-e9d7-d529-3527-eb90407e557b >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Final Exam covers the entire course, however the emphasis  
+is on the material not covered in Quiz 1 and Quiz 2.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Preparation Activities
 ----------------------

@@ -11,7 +11,26 @@ uid: eadd11a6-d653-17c5-f7d8-eae998cdc5e6
 Lecture Topics
 --------------
 
-| ![Lecture_23.jpg]({{< resource_file e4c96912-fece-fc98-92f9-569fdd1a68c9 >}}) |  {{< br >}}{{< br >}} *   Classical statistics{{< br >}}*   Maximum likelihood (ML) estimation{{< br >}}*   Estimating a sample mean{{< br >}}*   Confidence intervals (CIs){{< br >}}*   CIs using an estimated variance {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_23.jpg]({{< resource_file e4c96912-fece-fc98-92f9-569fdd1a68c9 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Classical statistics
+*   Maximum likelihood (ML) estimation
+*   Estimating a sample mean
+*   Confidence intervals (CIs)
+*   CIs using an estimated variance
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------

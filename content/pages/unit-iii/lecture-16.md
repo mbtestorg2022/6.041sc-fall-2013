@@ -11,7 +11,25 @@ uid: 8f3c76f8-cf51-30bb-1aea-bcdc51a3cfa3
 Lecture Topics
 --------------
 
-| ![Lecture_16.jpg]({{< resource_file de1d3cd7-b9ea-6e27-1478-cda527a3a164 >}}) |  {{< br >}}{{< br >}} *   Checkout counter example{{< br >}}*   Markov process definition{{< br >}}*   _n-_step transition probabilities{{< br >}}*   Classification of states {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_16.jpg]({{< resource_file de1d3cd7-b9ea-6e27-1478-cda527a3a164 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Checkout counter example
+*   Markov process definition
+*   _n-_step transition probabilities
+*   Classification of states
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,10 +48,48 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 1 | [Setting Up a Markov Chain]({{< baseurl >}}/resources/setting-up-a-markov-chain) | Jimmy Li |
-| 3 | [Markov Chain Practice 1]({{< baseurl >}}/resources/markov-chain-practice-1) | Qing He 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Setting Up a Markov Chain]({{< baseurl >}}/resources/setting-up-a-markov-chain)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Markov Chain Practice 1]({{< baseurl >}}/resources/markov-chain-practice-1)
+{{< tdclose >}}
+{{< tdopen >}}
+Qing He
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems
 -----------------

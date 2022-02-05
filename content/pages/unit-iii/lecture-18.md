@@ -11,7 +11,25 @@ uid: 8fbf8bfb-c4ce-ea14-c0cc-3541ace7c6a4
 Lecture Topics
 --------------
 
-| ![Lecture_18.jpg]({{< resource_file d1ec6aa2-0e05-0340-81f9-962d7bf22691 >}}) |  {{< br >}}{{< br >}} *   Review of steady-state behavior{{< br >}}*   Probability of blocked phone calls{{< br >}}*   Calculating absorption probabilities{{< br >}}*   Calculating expected time to absorption {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_18.jpg]({{< resource_file d1ec6aa2-0e05-0340-81f9-962d7bf22691 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Review of steady-state behavior
+*   Probability of blocked phone calls
+*   Calculating absorption probabilities
+*   Calculating expected time to absorption
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -38,8 +56,35 @@ Review the tutorial problems in the PDF file below and try to solve them on your
 
 ### Tutorial Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 2 | [Mean First Passage and Recurrence Times]({{< baseurl >}}/resources/mean-first-passage-and-recurrence-times) | Kuang Xu 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Mean First Passage and Recurrence Times]({{< baseurl >}}/resources/mean-first-passage-and-recurrence-times)
+{{< tdclose >}}
+{{< tdopen >}}
+Kuang Xu
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/unit-iii/lecture-17) | [Next]({{< baseurl >}}/pages/unit-iv) »

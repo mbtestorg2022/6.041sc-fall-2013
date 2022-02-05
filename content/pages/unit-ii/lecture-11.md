@@ -11,7 +11,24 @@ uid: 4359e52b-be89-7809-e0a4-c64ed6ae4af7
 Lecture Topics
 --------------
 
-| ![Lecture_11.jpg]({{< resource_file 1e00f522-3240-da5d-9076-8fd44c3db854 >}}) |  {{< br >}}{{< br >}} *   Derived distributions for monotonic functions{{< br >}}*   The PDF of the sum of independent random variables{{< br >}}*   Covariance and correlation {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_11.jpg]({{< resource_file 1e00f522-3240-da5d-9076-8fd44c3db854 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Derived distributions for monotonic functions
+*   The PDF of the sum of independent random variables
+*   Covariance and correlation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,9 +47,36 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 2 | [The Difference of Two Independent Exponential Random Variables]({{< baseurl >}}/resources/the-difference-of-two-independent-exponential-random-variables) | Kuang Xu 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[The Difference of Two Independent Exponential Random Variables]({{< baseurl >}}/resources/the-difference-of-two-independent-exponential-random-variables)
+{{< tdclose >}}
+{{< tdopen >}}
+Kuang Xu
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems and Tutorial Help Videos
 ------------------------------------------
@@ -44,8 +88,35 @@ Review the tutorial problems in the PDF file below and try to solve them on your
 
 ### Tutorial Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 1 | [The Sum of Discrete and Continuous Random Variables]({{< baseurl >}}/resources/the-sum-of-discrete-and-continuous-random-variables) | Jagdish Ramakrishnan 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[The Sum of Discrete and Continuous Random Variables]({{< baseurl >}}/resources/the-sum-of-discrete-and-continuous-random-variables)
+{{< tdclose >}}
+{{< tdopen >}}
+Jagdish Ramakrishnan
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/unit-ii/lecture-10) | [Next]({{< baseurl >}}/pages/unit-ii/lecture-12) »

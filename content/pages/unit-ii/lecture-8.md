@@ -11,7 +11,24 @@ uid: 140e2988-c266-0068-4724-1f9148d8d516
 Lecture Topics
 --------------
 
-| ![Lecture_8.jpg]({{< resource_file c8699c9b-d47f-1a7a-0f5f-bd77f8be1bec >}}) |  {{< br >}}{{< br >}} *   Probability density functions{{< br >}}*   Cumulative distribution functions{{< br >}}*   Normal random variables {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_8.jpg]({{< resource_file c8699c9b-d47f-1a7a-0f5f-bd77f8be1bec >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Probability density functions
+*   Cumulative distribution functions
+*   Normal random variables
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,11 +47,61 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 1 | [Calculating a Cumulative Distribution Function (CDF)]({{< baseurl >}}/resources/calculating-a-cumulative-distribution-function-cdf)  {{< br >}} | Jimmy Li |
-| 2 | [A Mixed Distribution Example]({{< baseurl >}}/resources/a-mixed-distribution-example) | Jagdish Ramakrishnan |
-| 3 | [Mean and Variance of the Exponential]({{< baseurl >}}/resources/mean-and-variance-of-the-exponential) | Jagdish Ramakrishnan 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Calculating a Cumulative Distribution Function (CDF)]({{< baseurl >}}/resources/calculating-a-cumulative-distribution-function-cdf)  
+
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[A Mixed Distribution Example]({{< baseurl >}}/resources/a-mixed-distribution-example)
+{{< tdclose >}}
+{{< tdopen >}}
+Jagdish Ramakrishnan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Mean and Variance of the Exponential]({{< baseurl >}}/resources/mean-and-variance-of-the-exponential)
+{{< tdclose >}}
+{{< tdopen >}}
+Jagdish Ramakrishnan
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems and Tutorial Help Videos
 ------------------------------------------
@@ -46,8 +113,35 @@ Review the tutorial problems in the PDF file below and try to solve them on your
 
 ### Tutorial Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-|  1 | [Normal Probability Calculation]({{< baseurl >}}/resources/normal-probability-calculation) | Jagdish Ramakrishnan 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 1
+{{< tdclose >}}
+{{< tdopen >}}
+[Normal Probability Calculation]({{< baseurl >}}/resources/normal-probability-calculation)
+{{< tdclose >}}
+{{< tdopen >}}
+Jagdish Ramakrishnan
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/unit-ii) | [Next]({{< baseurl >}}/pages/unit-ii/lecture-9) »

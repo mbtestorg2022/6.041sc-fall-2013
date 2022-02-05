@@ -11,7 +11,27 @@ uid: b7578d11-fa1c-dee6-7b78-56ce34e8db48
 Lecture Topics
 --------------
 
-| ![Lecture_1.jpg]({{< resource_file dec6e25c-ba89-2428-55f2-b1eef5ca03ec >}}) |  {{< br >}}{{< br >}} *   Probability as a mathematical framework for reasoning about uncertainty{{< br >}}*   Probabilistic models{{< br >}}    *   Sample space{{< br >}}    *   Probability law{{< br >}}*   Axioms of probability{{< br >}}*   Simple examples {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_1.jpg]({{< resource_file dec6e25c-ba89-2428-55f2-b1eef5ca03ec >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Probability as a mathematical framework for reasoning about uncertainty
+*   Probabilistic models
+    *   Sample space
+    *   Probability law
+*   Axioms of probability
+*   Simple examples
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,11 +50,60 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 1 | [The Probability of the Difference of Two Events]({{< baseurl >}}/resources/lecture-1-the-probability-of-the-difference-of-two-events) | Kuang Xu |
-| 2 | [Geniuses and Chocolates]({{< baseurl >}}/resources/lecture-1-geniuses-and-chocolates) | Katie Szeto |
-| 4 | [Uniform Probabilities on a Square]({{< baseurl >}}/resources/uniform-probabilities-on-a-square) | Jimmy Li 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[The Probability of the Difference of Two Events]({{< baseurl >}}/resources/lecture-1-the-probability-of-the-difference-of-two-events)
+{{< tdclose >}}
+{{< tdopen >}}
+Kuang Xu
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Geniuses and Chocolates]({{< baseurl >}}/resources/lecture-1-geniuses-and-chocolates)
+{{< tdclose >}}
+{{< tdopen >}}
+Katie Szeto
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[Uniform Probabilities on a Square]({{< baseurl >}}/resources/uniform-probabilities-on-a-square)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problem Set and Solutions
 -------------------------

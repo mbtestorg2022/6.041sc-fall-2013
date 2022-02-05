@@ -11,7 +11,25 @@ uid: ae332133-ad68-021b-8c11-95c3e6b70d0d
 Lecture Topics
 --------------
 
-| ![Lecture_21.jpg]({{< resource_file 763ef475-e37c-683b-51ad-9e80c61a9054 >}}) |  {{< br >}}{{< br >}} *   Inference applications{{< br >}}*   Classical versus Bayesian satistics{{< br >}}*   Maximum a posteriori probability estimation{{< br >}}*   (Bayesian) Least mean squares estimation {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_21.jpg]({{< resource_file 763ef475-e37c-683b-51ad-9e80c61a9054 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Inference applications
+*   Classical versus Bayesian satistics
+*   Maximum a posteriori probability estimation
+*   (Bayesian) Least mean squares estimation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------

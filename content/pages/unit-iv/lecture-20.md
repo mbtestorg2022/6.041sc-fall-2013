@@ -11,7 +11,25 @@ uid: 7130cfbd-1446-2844-68da-e83bdd28e426
 Lecture Topics
 --------------
 
-| ![Lecture_20.jpg]({{< resource_file 8fc917bb-2a3e-da2d-3cfb-f376d9e2ea47 >}}) |  {{< br >}}{{< br >}} *   The Central Limit Theorem (CLT){{< br >}}*   CLT interpretation{{< br >}}*   Application to polling{{< br >}}*   CLT refinements {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_20.jpg]({{< resource_file 8fc917bb-2a3e-da2d-3cfb-f376d9e2ea47 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   The Central Limit Theorem (CLT)
+*   CLT interpretation
+*   Application to polling
+*   CLT refinements
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,9 +48,47 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 1 | [Probabilty Bounds]({{< baseurl >}}/resources/probabilty-bounds) | Kuang Xu |
-| 2 | [Using the Central Limit Theorem]({{< baseurl >}}/resources/using-the-central-limit-theorem) | Jagdish Ramakrishnan 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Probabilty Bounds]({{< baseurl >}}/resources/probabilty-bounds)
+{{< tdclose >}}
+{{< tdopen >}}
+Kuang Xu
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Using the Central Limit Theorem]({{< baseurl >}}/resources/using-the-central-limit-theorem)
+{{< tdclose >}}
+{{< tdopen >}}
+Jagdish Ramakrishnan
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/unit-iv/lecture-19) | [Next]({{< baseurl >}}/pages/unit-iv/lecture-21) »

@@ -11,7 +11,26 @@ uid: 6c61e0f1-a4af-4a3b-6a5b-478304353f11
 Lecture Topics
 --------------
 
-| ![Lecture_17.jpg]({{< resource_file bd8d35f1-86aa-4637-55bd-b7a7f51c7fc8 >}}) |  {{< br >}}{{< br >}} *   Review{{< br >}}*   Steady-state behavior  {{< br >}}    *   Steady-state convergence theorem{{< br >}}    *   Balance equations{{< br >}}*   Birth-death process {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_17.jpg]({{< resource_file bd8d35f1-86aa-4637-55bd-b7a7f51c7fc8 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Review
+*   Steady-state behavior  
+    *   Steady-state convergence theorem
+    *   Balance equations
+*   Birth-death process
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------

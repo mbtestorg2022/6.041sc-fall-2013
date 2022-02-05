@@ -11,7 +11,28 @@ uid: 06f2cd37-cd92-3c66-ddf2-8ccade9e6a7e
 Lecture Topics
 --------------
 
-| ![Lecture_7.jpg]({{< resource_file 2afb7ee0-2826-629c-756a-803e8ec6a2dc >}}) |  {{< br >}}{{< br >}} *   Multiple random variables{{< br >}}    *   Joint PMF{{< br >}}    *   Conditioning{{< br >}}    *   Independence{{< br >}}*   More on expectations{{< br >}}*   Binomial distribution revisited{{< br >}}*   A hat problem {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_7.jpg]({{< resource_file 2afb7ee0-2826-629c-756a-803e8ec6a2dc >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Multiple random variables
+    *   Joint PMF
+    *   Conditioning
+    *   Independence
+*   More on expectations
+*   Binomial distribution revisited
+*   A hat problem
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,9 +51,36 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 2 | [Joint Probability Mass Function (PMF) Drill 2]({{< baseurl >}}/resources/joint-probability-mass-function-pmf-drill-2) | Katie Szeto 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Joint Probability Mass Function (PMF) Drill 2]({{< baseurl >}}/resources/joint-probability-mass-function-pmf-drill-2)
+{{< tdclose >}}
+{{< tdopen >}}
+Katie Szeto
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems
 -----------------

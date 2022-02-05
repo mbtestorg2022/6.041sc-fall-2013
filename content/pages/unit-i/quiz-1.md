@@ -11,7 +11,26 @@ uid: 7e3927aa-b91f-0313-0647-5e1885bc367e
 Quiz Information
 ----------------
 
-| ![Quiz_1.jpg]({{< resource_file 569a02d4-f9fc-3512-e6b7-f133ea4c3fa9 >}}) | Quiz 1 covers the following material {{< br >}}{{< br >}} *   Lectures 1 through 7{{< br >}}*   Textbook Chapters 1 and 2{{< br >}}*   Recitations 1 through 7{{< br >}}*   Tutorials 1 through 3{{< br >}}*   Problem Sets 1 through 4 {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Quiz_1.jpg]({{< resource_file 569a02d4-f9fc-3512-e6b7-f133ea4c3fa9 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1 covers the following material
+
+*   Lectures 1 through 7
+*   Textbook Chapters 1 and 2
+*   Recitations 1 through 7
+*   Tutorials 1 through 3
+*   Problem Sets 1 through 4
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Preparation Activities
 ----------------------

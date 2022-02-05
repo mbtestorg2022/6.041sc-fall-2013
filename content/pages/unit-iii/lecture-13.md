@@ -11,7 +11,27 @@ uid: c2de91c2-c31e-3e16-f00c-bc8087ae8b53
 Lecture Topics
 --------------
 
-| ![Lecture_13.jpg]({{< resource_file bcf17d2f-c994-989e-f1a6-2839e988cdea >}}) |  {{< br >}}{{< br >}} *   Definition of Bernoulli process{{< br >}}*   Random processes, more generally{{< br >}}*   Basic properties of the Bernoulli process{{< br >}}*   Distribution of interarrival times{{< br >}}*   The time of the _k_th success{{< br >}}*   Merging and splitting {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_13.jpg]({{< resource_file bcf17d2f-c994-989e-f1a6-2839e988cdea >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Definition of Bernoulli process
+*   Random processes, more generally
+*   Basic properties of the Bernoulli process
+*   Distribution of interarrival times
+*   The time of the _k_th success
+*   Merging and splitting
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,9 +50,36 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-|  1 | [Bernoulli Process Practice]({{< baseurl >}}/resources/bernoulli-process-practice) | Qing He 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 1
+{{< tdclose >}}
+{{< tdopen >}}
+[Bernoulli Process Practice]({{< baseurl >}}/resources/bernoulli-process-practice)
+{{< tdclose >}}
+{{< tdopen >}}
+Qing He
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems
 -----------------

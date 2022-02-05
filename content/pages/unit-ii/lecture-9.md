@@ -11,7 +11,28 @@ uid: a18c5ed7-4174-bfa2-8380-13a303933305
 Lecture Topics
 --------------
 
-| ![Lecture_9.jpg]({{< resource_file 5a99ef3a-e4d4-26d2-269e-95ac6ffad441 >}}) |  {{< br >}}{{< br >}} *   PDF review{{< br >}}*   Multiple random variables{{< br >}}    *   Conditioning{{< br >}}    *   Independence{{< br >}}*   Examples{{< br >}}    *   Buffon's needle{{< br >}}    *   Stick breaking {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_9.jpg]({{< resource_file 5a99ef3a-e4d4-26d2-269e-95ac6ffad441 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   PDF review
+*   Multiple random variables
+    *   Conditioning
+    *   Independence
+*   Examples
+    *   Buffon's needle
+    *   Stick breaking
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,10 +51,48 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 3 | [Uniform Probabilities on a Triangle]({{< baseurl >}}/resources/uniform-probabilities-on-a-triangle) | Jimmy Li |
-| 4 | [Probability that Three Pieces Form a Triangle]({{< baseurl >}}/resources/probability-that-three-pieces-form-a-triangle) | Jimmy Li 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Uniform Probabilities on a Triangle]({{< baseurl >}}/resources/uniform-probabilities-on-a-triangle)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[Probability that Three Pieces Form a Triangle]({{< baseurl >}}/resources/probability-that-three-pieces-form-a-triangle)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems and Tutorial Help Videos
 ------------------------------------------
@@ -45,9 +104,36 @@ Review the tutorial problems in the PDF file below and try to solve them on your
 
 ### Tutorial Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 3 | [The Absent Minded Professor]({{< baseurl >}}/resources/the-absent-minded-professor) | Jimmy Li 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[The Absent Minded Professor]({{< baseurl >}}/resources/the-absent-minded-professor)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problem Set and Solutions
 -------------------------

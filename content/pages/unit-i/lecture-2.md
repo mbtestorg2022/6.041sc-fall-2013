@@ -11,7 +11,26 @@ uid: 13d8856f-c0bc-fa17-583d-d3dd142ca31a
 Lecture Topics
 --------------
 
-| ![Lecture_2.jpg]({{< resource_file e30fd659-59f9-c6ef-ad9c-ece1135aeb05 >}}) |  {{< br >}}{{< br >}} *   Conditional probability{{< br >}}*   Three important tools{{< br >}}    *   Multiplication rule{{< br >}}    *   Total probability theorem{{< br >}}    *   Bayes' rule {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_2.jpg]({{< resource_file e30fd659-59f9-c6ef-ad9c-ece1135aeb05 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Conditional probability
+*   Three important tools
+    *   Multiplication rule
+    *   Total probability theorem
+    *   Bayes' rule
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,10 +49,59 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 1 | [A Coin Tossing Puzzle]({{< baseurl >}}/resources/a-coin-tossing-puzzle) | Kuang Xu |
-| 2 | [Conditional Probability Example]({{< baseurl >}}/resources/conditional-probability-example) | Katie Szeto |
-| 4 | [The Monty Hall Problem]({{< baseurl >}}/resources/the-monty-hall-problem) | Jimmy Li 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[A Coin Tossing Puzzle]({{< baseurl >}}/resources/a-coin-tossing-puzzle)
+{{< tdclose >}}
+{{< tdopen >}}
+Kuang Xu
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Conditional Probability Example]({{< baseurl >}}/resources/conditional-probability-example)
+{{< tdclose >}}
+{{< tdopen >}}
+Katie Szeto
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[The Monty Hall Problem]({{< baseurl >}}/resources/the-monty-hall-problem)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 « [Previous]({{< baseurl >}}/pages/unit-i/lecture-1) | [Next]({{< baseurl >}}/pages/unit-i/lecture-3) »

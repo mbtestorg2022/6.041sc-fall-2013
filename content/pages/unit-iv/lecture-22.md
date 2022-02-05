@@ -11,7 +11,26 @@ uid: 38d8f7e6-57b0-d5c7-d135-07f467ed742b
 Lecture Topics
 --------------
 
-| ![Lecture_22.jpg]({{< resource_file 40437971-8320-a6a9-7c70-30e90c5df882 >}}) |  {{< br >}}{{< br >}} *   More on least means squares (LMS) estimation{{< br >}}    *   An example{{< br >}}    *   The mean squared error{{< br >}}    *   Theoretical properties{{< br >}}*   (Bayesian) Linear LMS estimation {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_22.jpg]({{< resource_file 40437971-8320-a6a9-7c70-30e90c5df882 >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   More on least means squares (LMS) estimation
+    *   An example
+    *   The mean squared error
+    *   Theoretical properties
+*   (Bayesian) Linear LMS estimation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,9 +49,48 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} [Inferring a Parameter of Uniform Part 1]({{< baseurl >}}/resources/inferring-a-parameter-of-uniform-part-1) {{< br >}}{{< br >}} [Inferring a Parameter of Uniform Part 2]({{< baseurl >}}/resources/inferring-a-parameter-of-uniform-part-2) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Jimmy Li {{< br >}}{{< br >}} Jimmy Li {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Inferring a Parameter of Uniform Part 1]({{< baseurl >}}/resources/inferring-a-parameter-of-uniform-part-1)
+
+[Inferring a Parameter of Uniform Part 2]({{< baseurl >}}/resources/inferring-a-parameter-of-uniform-part-2)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jimmy Li
+
+Jimmy Li
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems and Tutorial Help Videos
 ------------------------------------------
@@ -44,9 +102,36 @@ Review the tutorial problems in the PDF file below and try to solve them on your
 
 ### Tutorial Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 1 | [An Inference Example]({{< baseurl >}}/resources/an-inference-example) | Jimmy Li 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[An Inference Example]({{< baseurl >}}/resources/an-inference-example)
+{{< tdclose >}}
+{{< tdopen >}}
+Jimmy Li
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problem Set and Solutions
 -------------------------

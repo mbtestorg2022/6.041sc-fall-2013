@@ -11,7 +11,25 @@ uid: a7292289-e3eb-1f87-59fe-7822a15409c3
 Lecture Topics
 --------------
 
-| ![Lecture_19.jpg]({{< resource_file 26bdaf1b-09d1-be4d-3cb0-5b4b6ca7feff >}}) |  {{< br >}}{{< br >}} *   The sample mean{{< br >}}*   A tool: Chebyshev's inequality{{< br >}}*   Convergence "in probability"{{< br >}}*   Convergence of the sample mean (weak law of large numbers) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![Lecture_19.jpg]({{< resource_file 26bdaf1b-09d1-be4d-3cb0-5b4b6ca7feff >}})
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   The sample mean
+*   A tool: Chebyshev's inequality
+*   Convergence "in probability"
+*   Convergence of the sample mean (weak law of large numbers)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lecture Activities
 ------------------
@@ -30,10 +48,60 @@ Review the recitation problems in the PDF file below and try to solve them on yo
 
 ### Recitation Help Videos
 
-| PROBLEM # | PROBLEM TITLE | PROBLEM SOLVED BY |
-| --- | --- | --- |
-| 2 |  {{< br >}}{{< br >}} [Convergence in Probability and in the Mean Part 1]({{< baseurl >}}/resources/convergence-in-probability-and-in-the-mean-part-1) {{< br >}}{{< br >}} [Convergence in Probability and in the Mean Part 2]({{< baseurl >}}/resources/convergence-in-probability-and-in-the-mean-part-2) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Kuang Xu {{< br >}}{{< br >}} Kuang Xu {{< br >}}{{< br >}}  |
-| 3 | [Convergence in Probability Example]({{< baseurl >}}/resources/convergence-in-probability-example) | Kuang Xu 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM TITLE
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SOLVED BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Convergence in Probability and in the Mean Part 1]({{< baseurl >}}/resources/convergence-in-probability-and-in-the-mean-part-1)
+
+[Convergence in Probability and in the Mean Part 2]({{< baseurl >}}/resources/convergence-in-probability-and-in-the-mean-part-2)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Kuang Xu
+
+Kuang Xu
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Convergence in Probability Example]({{< baseurl >}}/resources/convergence-in-probability-example)
+{{< tdclose >}}
+{{< tdopen >}}
+Kuang Xu
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Tutorial Problems
 -----------------
