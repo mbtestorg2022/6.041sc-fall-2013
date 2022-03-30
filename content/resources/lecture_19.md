@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a7292289-e3eb-1f87-59fe-7822a15409c3
 resourcetype: Image
 title: Lecture_19.jpg
 uid: 26bdaf1b-09d1-be4d-3cb0-5b4b6ca7feff

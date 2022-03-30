@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/3c60959194374eab8b4f75da74d5cacf_MIT6_041SCF13_Edit2_Take2_No13_Ch1_HypergeometicProbabilities.pdf
 file_type: application/pdf
+parent_uid: 0bc3541c-d753-28f5-062b-51cb6d40538d
 resourcetype: Document
 title: "6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013Transcript\
   \ \u2013 Recitation: Hypergeometric Probabilities"

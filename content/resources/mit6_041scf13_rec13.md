@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/b0fe6a9921228217f1bfcef7147508ff_MIT6_041SCF13_rec13.pdf
 file_type: application/pdf
+parent_uid: d2fb21e5-831b-05e6-e0e1-5720b8f29dba
 resourcetype: Document
 title: 6.041SC Probabilistic Systems Analysis, Recitation 13
 uid: b0fe6a99-2122-8217-f1bf-cef7147508ff
